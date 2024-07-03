@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Awesome Portfolio
 
-## Getting Started
+Welcome to my super cool portfolio website! 🚀 Check out my projects and skills in web development.
 
-First, run the development server:
+## Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Frontend
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**:
+  - React framework for blazing-fast web development.
+  - Version: 14.2.4
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **React**:
+  - JavaScript library for building awesome user interfaces.
+  - Version: 18
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Tailwind CSS**:
+  - Super customizable CSS framework for responsive designs.
+  - Version: 3.4.1
 
-## Learn More
+- **Framer Motion**:
+  - Animation library for React components.
+  - Version: 11.2.12
 
-To learn more about Next.js, take a look at the following resources:
+- **React Icons**:
+  - Cool icons for React from various icon libraries.
+  - Version: 5.2.1
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **React Lottie**:
+  - React component for Lottie animations.
+  - Version: 1.2.4
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **@react-three/fiber**:
+  - WebGL framework for creating interactive 3D content in React.
+  - Version: 8.16.8
 
-## Deploy on Vercel
+- **@react-three/drei**:
+  - Collection of useful components and hooks for Three.js in React Three Fiber.
+  - Version: 9.108.1
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **three**:
+  - JavaScript library for creating and displaying 3D graphics on the web.
+  - Version: 0.166.1
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **three-globe**:
+  - Three.js component for visualizing data on a 3D globe.
+  - Version: 2.31.1
+
+### Development Tools
+
+- **TypeScript**:
+  - Safe and efficient programming language for web apps.
+  - Version: 5
+
+- **ESLint**:
+  - Tool for analyzing and fixing JavaScript/TypeScript code errors.
+  - Version: 8
+
+- **PostCSS**:
+  - Tool for transforming CSS with JavaScript, including plugins for modern CSS.
+  - Version: 8
+
+- **Tailwind CSS plugins**:
+  - Plugins for Tailwind CSS adding extra features like animations.
+  - Version: 2.3.0, 1.0.7
+
+### Deployment
+
+- **@sentry/nextjs**:
+  - Sentry integration for Next.js to monitor and track errors in the app.
+  - Version: 8.13.0
+
+
+Thanks for visiting my portfolio! 😎✌️
