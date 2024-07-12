@@ -95,13 +95,30 @@ export const projects = [
     link: "https://github.com/Health-Care-System/fe-react-doctor",
   },
   {
-    id: 3,
+    id: 4,
     title: "Healthify Admin - Health Management Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/healthifyA.png",
     iconLists: ["/re.svg", "/bt.svg", "gl.svg", "zt.svg"],
     link: "https://github.com/Health-Care-System/fe-react-admin",
   },
+  {
+    id: 5,
+    title: "E-commerce Admin - Product Management Application",
+    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    img: "/admin.png",
+    iconLists: ["/next.svg", "/tail.svg", "prisma.svg", "zt.svg"],
+    link: "https://store-admin-mauve.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "E-commerce Guest - Product Management Application",
+    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    img: "/guest.png",
+    iconLists: ["/next.svg", "/tail.svg", "prisma.svg", "zt.svg"],
+    link: "https://store-guest.vercel.app/",
+  },
+
 ];
 
 export const testimonials = [
