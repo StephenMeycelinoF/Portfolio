@@ -118,7 +118,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "prisma.svg", "zt.svg"],
     link: "https://store-guest.vercel.app/",
   },
-
+  {
+    id: 7,
+    title: "Chat With PDF AI - Document Management",
+    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    img: "/chatwithpdf.png",
+    iconLists: ["/next.svg", "/tail.svg", "fb.svg", "stripe.png", "daisyui.svg", "langchain.png", "nodejs.svg"],
+    link: "https://chat-with-pdf-chi-three.vercel.app/",
+  },
 ];
 
 export const testimonials = [
@@ -189,11 +196,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    href: "https://github.com/StephenMeycelinoFransisco"
+    href: "https://github.com/StephenMeycelinoFransisco",
   },
   {
     id: 2,
     img: "/link.svg",
-    href: "https://www.linkedin.com/in/stephenmf/"
+    href: "https://www.linkedin.com/in/stephenmf/",
   },
 ];
